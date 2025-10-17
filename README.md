@@ -9,6 +9,8 @@
 
 5.cd spam-wa
 
-6.pip install -r Material.txt
+6.ls
 
-7.python main.py
+7.pip install -r Material.txt
+
+8.python main.py
