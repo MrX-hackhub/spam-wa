@@ -5,7 +5,7 @@
 
 3.pkg install Python
 
-4.git clone https://github.com/MrX-hackhub/spam-wa
+4.git clone https://github.com/MrX-hackhub/spam-wa.git
 
 5.cd spam-wa
 
